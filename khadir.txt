@@ -1,1 +1,2 @@
 Hello to Linux
+Welcome to Git 
